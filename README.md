@@ -1,5 +1,5 @@
 <!-- spellcheck-disable -->
-#Aurora Bober Rogue FAQ and features
+# Aurora Bober Rogue FAQ and features
 ## 🎯 Core Features
 ### **Perfect Damage Rotation**
 - **APL-Compliant**: Implements the latest SimulationCraft APL (Action Priority List) for optimal DPS
