@@ -67,6 +67,7 @@
 
 #### **Current Dungeons**
 - **The War Within Season 2**: Complete support for all new dungeons
+- **The War Within Season 3**: Complete support for all new dungeons
 
 #### **Advanced Features**
 - **Boss Mod Integration**: Works with DBM and BigWigs
